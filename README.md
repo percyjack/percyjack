@@ -1,4 +1,5 @@
 - # Sobre mim
 - 👋 Olá meu nome é @percyjack
+- 👍 Meu email de contato é @julia.lepka.correia@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender novas linguagens.
 - 🌱 Eu estou aprendendendo a programar recentemente a linguagem de JavaScript e Scratch.
