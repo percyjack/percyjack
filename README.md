@@ -1,0 +1,4 @@
+- # Sobre mim
+- 👋 Olá meu nome é @percyjack
+- 👀 Eu estou interessado em aprender novas linguagens.
+- 🌱 Eu estou aprendendendo a programar recentemente a linguagem de JavaScript e Scratch.
